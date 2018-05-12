@@ -1,0 +1,32 @@
+_repo: Baseball-Joe-at-Yaleor-Pitching-for-the-College-Championship_40105
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40105-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chadwick, Lester
+    gutenberg_agent_id: '32638'
+    url: http://www.gutenberg.org/2009/agents/32638
+description: ''
+gutenberg_issued: '2012-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40105'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Yale University -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Diligence -- Juvenile fiction'
+- !lcsh 'Baseball stories'
+- !lcsh 'Success -- Juvenile fiction'
+- !lcsh 'College students -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Baseball players -- Juvenile fiction'
+- !lcsh 'Young men -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Universities and colleges -- United States -- Juvenile fiction'
+title: Baseball Joe at Yale; or, Pitching for the College Championship
+url: http://www.gutenberg.org/ebooks/40105
